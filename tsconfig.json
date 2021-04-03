@@ -6,9 +6,7 @@
     "outDir": "./build",
     "strict": true,
     "noImplicitAny": false,
-    "rootDirs": [
-      "./src"
-    ],
+    "rootDirs": ["./src", "./test"],
     "baseUrl": ".",
     "esModuleInterop": true,
     "skipLibCheck": true,
